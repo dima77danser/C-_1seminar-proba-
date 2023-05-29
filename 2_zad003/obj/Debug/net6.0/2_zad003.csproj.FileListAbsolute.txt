@@ -1,0 +1,15 @@
+/Users/LukashinD/Desktop/C# seminary/2_zad003/bin/Debug/net6.0/2_zad003
+/Users/LukashinD/Desktop/C# seminary/2_zad003/bin/Debug/net6.0/2_zad003.deps.json
+/Users/LukashinD/Desktop/C# seminary/2_zad003/bin/Debug/net6.0/2_zad003.runtimeconfig.json
+/Users/LukashinD/Desktop/C# seminary/2_zad003/bin/Debug/net6.0/2_zad003.dll
+/Users/LukashinD/Desktop/C# seminary/2_zad003/bin/Debug/net6.0/2_zad003.pdb
+/Users/LukashinD/Desktop/C# seminary/2_zad003/obj/Debug/net6.0/2_zad003.csproj.AssemblyReference.cache
+/Users/LukashinD/Desktop/C# seminary/2_zad003/obj/Debug/net6.0/2_zad003.GeneratedMSBuildEditorConfig.editorconfig
+/Users/LukashinD/Desktop/C# seminary/2_zad003/obj/Debug/net6.0/2_zad003.AssemblyInfoInputs.cache
+/Users/LukashinD/Desktop/C# seminary/2_zad003/obj/Debug/net6.0/2_zad003.AssemblyInfo.cs
+/Users/LukashinD/Desktop/C# seminary/2_zad003/obj/Debug/net6.0/2_zad003.csproj.CoreCompileInputs.cache
+/Users/LukashinD/Desktop/C# seminary/2_zad003/obj/Debug/net6.0/2_zad003.dll
+/Users/LukashinD/Desktop/C# seminary/2_zad003/obj/Debug/net6.0/refint/2_zad003.dll
+/Users/LukashinD/Desktop/C# seminary/2_zad003/obj/Debug/net6.0/2_zad003.pdb
+/Users/LukashinD/Desktop/C# seminary/2_zad003/obj/Debug/net6.0/2_zad003.genruntimeconfig.cache
+/Users/LukashinD/Desktop/C# seminary/2_zad003/obj/Debug/net6.0/ref/2_zad003.dll
