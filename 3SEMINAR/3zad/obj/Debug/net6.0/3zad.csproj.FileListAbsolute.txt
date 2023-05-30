@@ -1,0 +1,15 @@
+/Users/LukashinD/Desktop/C# seminary/3SEMINAR/3zad/bin/Debug/net6.0/3zad
+/Users/LukashinD/Desktop/C# seminary/3SEMINAR/3zad/bin/Debug/net6.0/3zad.deps.json
+/Users/LukashinD/Desktop/C# seminary/3SEMINAR/3zad/bin/Debug/net6.0/3zad.runtimeconfig.json
+/Users/LukashinD/Desktop/C# seminary/3SEMINAR/3zad/bin/Debug/net6.0/3zad.dll
+/Users/LukashinD/Desktop/C# seminary/3SEMINAR/3zad/bin/Debug/net6.0/3zad.pdb
+/Users/LukashinD/Desktop/C# seminary/3SEMINAR/3zad/obj/Debug/net6.0/3zad.csproj.AssemblyReference.cache
+/Users/LukashinD/Desktop/C# seminary/3SEMINAR/3zad/obj/Debug/net6.0/3zad.GeneratedMSBuildEditorConfig.editorconfig
+/Users/LukashinD/Desktop/C# seminary/3SEMINAR/3zad/obj/Debug/net6.0/3zad.AssemblyInfoInputs.cache
+/Users/LukashinD/Desktop/C# seminary/3SEMINAR/3zad/obj/Debug/net6.0/3zad.AssemblyInfo.cs
+/Users/LukashinD/Desktop/C# seminary/3SEMINAR/3zad/obj/Debug/net6.0/3zad.csproj.CoreCompileInputs.cache
+/Users/LukashinD/Desktop/C# seminary/3SEMINAR/3zad/obj/Debug/net6.0/3zad.dll
+/Users/LukashinD/Desktop/C# seminary/3SEMINAR/3zad/obj/Debug/net6.0/refint/3zad.dll
+/Users/LukashinD/Desktop/C# seminary/3SEMINAR/3zad/obj/Debug/net6.0/3zad.pdb
+/Users/LukashinD/Desktop/C# seminary/3SEMINAR/3zad/obj/Debug/net6.0/3zad.genruntimeconfig.cache
+/Users/LukashinD/Desktop/C# seminary/3SEMINAR/3zad/obj/Debug/net6.0/ref/3zad.dll
